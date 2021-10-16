@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm David, aka evad37. I have more repos here: https://github.com/destern-wa
 
 <!--
 **evad37/evad37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
